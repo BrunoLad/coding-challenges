@@ -1,0 +1,1 @@
+Contains solutions to problems present in [typescript type challenges](https://github.com/type-challenges/type-challenges)
