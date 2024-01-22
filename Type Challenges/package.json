@@ -1,0 +1,11 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "Contains solutions to problems present in [typescript type challenges](https://github.com/type-challenges/type-challenges)",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
